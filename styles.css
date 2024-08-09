@@ -14,7 +14,7 @@ body {
   }
   
   .chamada {
-    background: rgb(65,105,225);
+    background: rgb(19, 43, 180);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
@@ -54,4 +54,10 @@ margin-top: 50px;
 }
 .categoria h2{
     color:aqua
+}
+.chamada h1{
+    color: black;
+}
+.chamada p{
+    color:rgb(224, 17, 17)
 }
